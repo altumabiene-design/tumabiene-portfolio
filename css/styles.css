@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: radial-gradient(circle at top, rgba(11,12,39,0.85), rgba(0,0,0,0.95) 90%), url("../images/background.jpeg");
+    background: url("../images/background.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -253,5 +253,6 @@ footer {
         margin: 10px;
     }
 }
+
 
 
